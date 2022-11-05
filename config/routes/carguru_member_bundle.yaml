@@ -1,0 +1,2 @@
+_carguru_member_bundle:
+  resource: "@CarguruMemberBundle/Resources/config/routes.yaml"

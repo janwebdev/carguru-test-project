@@ -1,20 +1,24 @@
 {
+    "name": "janwebdev/carguru-test-project",
+    "description": "CarGuru Test Project",
     "type": "project",
-    "license": "proprietary",
+    "homepage": "https://github.com/janwebdev/carguru-test-project",
+    "license": "MIT",
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
         "php": ">=8.0.2",
         "ext-ctype": "*",
         "ext-iconv": "*",
+        "janwebdev/carguru-member-bundle": "^1.1",
+        "sonata-project/admin-bundle": "^4.20",
+        "sonata-project/doctrine-orm-admin-bundle": "^4.8",
         "symfony/console": "6.0.*",
         "symfony/dotenv": "6.0.*",
         "symfony/flex": "^2",
         "symfony/framework-bundle": "6.0.*",
         "symfony/runtime": "6.0.*",
         "symfony/yaml": "6.0.*"
-    },
-    "require-dev": {
     },
     "config": {
         "allow-plugins": {
@@ -63,8 +67,9 @@
     },
     "extra": {
         "symfony": {
-            "allow-contrib": false,
-            "require": "6.0.*"
+            "allow-contrib": true,
+            "require": "6.0.*",
+            "docker": true
         }
     }
 }
