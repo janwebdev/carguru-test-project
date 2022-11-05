@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cf485310639ca74b104e5b08b2435902",
+    "content-hash": "ce0cc536be1ba2c8bb9b3aa4a6722531",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1184,16 +1184,16 @@
         },
         {
             "name": "janwebdev/carguru-member-bundle",
-            "version": "v1.1.1",
+            "version": "v1.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/janwebdev/carguru-member-bundle.git",
-                "reference": "eb24deb607ae9d0cbbd04472bcb71e676be90332"
+                "reference": "6c6f0e43d9831bf92d3d1e8bbdc9d6697068d9a9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/janwebdev/carguru-member-bundle/zipball/eb24deb607ae9d0cbbd04472bcb71e676be90332",
-                "reference": "eb24deb607ae9d0cbbd04472bcb71e676be90332",
+                "url": "https://api.github.com/repos/janwebdev/carguru-member-bundle/zipball/6c6f0e43d9831bf92d3d1e8bbdc9d6697068d9a9",
+                "reference": "6c6f0e43d9831bf92d3d1e8bbdc9d6697068d9a9",
                 "shasum": ""
             },
             "require": {
@@ -1255,9 +1255,9 @@
             ],
             "support": {
                 "issues": "https://github.com/janwebdev/carguru-member-bundle/issues",
-                "source": "https://github.com/janwebdev/carguru-member-bundle/tree/v1.1.1"
+                "source": "https://github.com/janwebdev/carguru-member-bundle/tree/v1.2.3"
             },
-            "time": "2022-11-05T16:55:25+00:00"
+            "time": "2022-11-05T17:54:55+00:00"
         },
         {
             "name": "jms/metadata",

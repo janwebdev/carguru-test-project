@@ -10,7 +10,7 @@
         "php": ">=8.0.2",
         "ext-ctype": "*",
         "ext-iconv": "*",
-        "janwebdev/carguru-member-bundle": "^1.1",
+        "janwebdev/carguru-member-bundle": "^1.2",
         "sonata-project/admin-bundle": "^4.20",
         "sonata-project/doctrine-orm-admin-bundle": "^4.8",
         "symfony/console": "6.0.*",
