@@ -12,6 +12,10 @@
 ``` bash
 $ composer install
 ```
+- Run the following command to create database structure
+``` bash
+$ symfony console doctrine:schema:update --force
+```
 - create new project user
 ``` bash
 $ symfony console carguru:member:create <username> <password>
